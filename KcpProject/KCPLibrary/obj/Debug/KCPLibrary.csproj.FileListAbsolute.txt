@@ -1,0 +1,12 @@
+E:\MyGit\WinForm\KCPLibrary\KCPLibrary\obj\Debug\KCPLibrary.csprojResolveAssemblyReference.cache
+E:\MyGit\WinForm\KCPLibrary\KCPLibrary\bin\Debug\KCPLibrary.dll
+E:\MyGit\WinForm\KCPLibrary\KCPLibrary\bin\Debug\KCPLibrary.pdb
+E:\MyGit\WinForm\KCPLibrary\KCPLibrary\obj\Debug\KCPLibrary.dll
+E:\MyGit\WinForm\KCPLibrary\KCPLibrary\obj\Debug\KCPLibrary.pdb
+E:\MyGit\WinForm\KCPLibrary\KCPLibrary\bin\Debug\UnityEngine.dll
+E:\MyGit\WinForm\KCPTest\KCPLibrary\bin\Debug\KCPLibrary.dll
+E:\MyGit\WinForm\KCPTest\KCPLibrary\bin\Debug\KCPLibrary.pdb
+E:\MyGit\WinForm\KCPTest\KCPLibrary\obj\Debug\KCPLibrary.dll
+E:\MyGit\WinForm\KCPTest\KCPLibrary\obj\Debug\KCPLibrary.pdb
+E:\MyGit\WinForm\KCPTest\KCPLibrary\bin\Debug\UnityEngine.dll
+E:\MyGit\WinForm\KCPTest\KCPLibrary\obj\Debug\KCPLibrary.csprojResolveAssemblyReference.cache

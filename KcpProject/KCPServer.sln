@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KCPServer", "KCPServer\KCPServer.csproj", "{6C577B85-66A6-4438-9411-21BEA72D018B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Network_Kcp", "KCPLibrary\Network_Kcp.csproj", "{BD4E39D1-4BAB-4693-946E-892A1C51B1C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C577B85-66A6-4438-9411-21BEA72D018B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C577B85-66A6-4438-9411-21BEA72D018B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C577B85-66A6-4438-9411-21BEA72D018B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C577B85-66A6-4438-9411-21BEA72D018B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD4E39D1-4BAB-4693-946E-892A1C51B1C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD4E39D1-4BAB-4693-946E-892A1C51B1C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD4E39D1-4BAB-4693-946E-892A1C51B1C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD4E39D1-4BAB-4693-946E-892A1C51B1C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+E:\MyGit\WinForm\KCPTest\KCPLibrary\bin\Debug\Network_Kcp.dll
+E:\MyGit\WinForm\KCPTest\KCPLibrary\bin\Debug\Network_Kcp.pdb
+E:\MyGit\WinForm\KCPTest\KCPLibrary\bin\Debug\UnityEngine.dll
+E:\MyGit\WinForm\KCPTest\KCPLibrary\obj\Debug\Network_Kcp.dll
+E:\MyGit\WinForm\KCPTest\KCPLibrary\obj\Debug\Network_Kcp.pdb
+E:\MyGit\WinForm\KCPTest\KCPLibrary\obj\Debug\Network_Kcp.csprojResolveAssemblyReference.cache

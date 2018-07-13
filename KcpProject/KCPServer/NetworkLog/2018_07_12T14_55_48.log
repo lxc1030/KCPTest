@@ -1,0 +1,14 @@
+[I]NetworkDebuger Init
+[I]UdpServer Init
+[I]KCPPlayer[0.0.0.0:0]-> 连接.
+[I]Thread_Recv() Begin ......
+[I]OnReceive() 192.168.1.110:50326:ConnectRequest
+[I]OnReceive() 192.168.1.110:50327:ConnectRequest
+[I]OnReceive() 192.168.1.110:50328:ConnectRequest
+[I]OnReceive() 192.168.1.110:50329:ConnectRequest
+[I]OnReceive() 192.168.1.110:50329:Player_Message2 [size]lrk
+[I]OnReceive() 192.168.1.110:50329:Player_Message3 [size]lrk
+[I]OnReceive() 192.168.1.110:50329:Player_Message4 [size]lrk
+[I]OnReceive() 192.168.1.110:50329:Player_Message5 [size]lrk
+[I]OnReceive() 192.168.1.110:50329:Player_Message6 [size]lrk
+[I]OnReceive() 192.168.1.110:50329:Heartbeat
